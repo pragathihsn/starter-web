@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     <Pragathi_lastname1> -- <devops enginner> -- <twitter>
+=======
+    <Pragathi_firstname > -- <devops enginner> -- <twitter>
+>>>>>>> commiting humans from mybranch
 
 # THANKS
 
