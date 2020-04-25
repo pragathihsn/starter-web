@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <Pragathi > -- <devops enginner> -- <twitter>
+    <Pragathi_lastname1> -- <devops enginner> -- <twitter>
 
 # THANKS
 
@@ -18,4 +18,3 @@
 fdhfher
 joerjg
 fjgojg
-
